@@ -1,5 +1,5 @@
 import cv2
-import gradio as gr
+import streamlit as gr
 import torch
 from ultralytics import YOLO
 
