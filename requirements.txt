@@ -1,4 +1,0 @@
-ultralytics
-gradio
-torch
-opencv-python-headless
